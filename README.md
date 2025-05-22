@@ -2,6 +2,12 @@
 
 This application allows you to look up security information about an IP address using the AbuseIPDB API and visualize the results in a graph using React Flow with Dagre layout.
 
+## Access the Live Deployed Version
+
+You can access the live deployed version of the application at the following link:
+
+[Live Demo](https://ip-lookup-five.vercel.app/)
+
 ## Features
 
 - Input an IP address (default: 38.114.121.200)
